@@ -1,4 +1,5 @@
 FROM ubuntu:bionic
+
 MAINTAINER CaioMerces
 
 EXPOSE 50070 8088
